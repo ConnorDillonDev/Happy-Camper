@@ -15,7 +15,7 @@ In order to run the application on your local machine, the '.env' file will be r
   <li>DB_URL</li>
   <li>SECRET=</li>
 </ul>
-**keys/tokens must be satisfied for full functionality**
+<i>keys/tokens must be satisfied for full functionality</i>
 
 ## Built With
 
