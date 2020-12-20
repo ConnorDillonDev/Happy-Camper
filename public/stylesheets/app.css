@@ -1,0 +1,15 @@
+#cluster-map{
+    width: 100%;
+    height: 500px;
+}
+
+#map{
+    width: 100%;
+    height: 300px;
+}
+
+body{
+    background-color: rgb(235, 235, 235);
+}
+
+fieldset{margin-bottom: -5vh;}
