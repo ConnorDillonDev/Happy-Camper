@@ -1,9 +1,8 @@
 
 HappyCamper is a Nodejs web applicaiton that focuses on CRUD using Express. The application allows a user to create, read, update and delete campgrounds. Users must be signed in to preform any of the CRUD actions exclusing read, allowing unregistered users to view campgrounds.
 Live application:
-```
-https://infinite-badlands-07112.herokuapp.com/
-```
+
+[https://infinite-badlands-07112.herokuapp.com/](https://infinite-badlands-07112.herokuapp.com/)
 
 ## Installing
 In order to run the application on your local machine, the '.env' file will be required in the root of the directory with the following:
