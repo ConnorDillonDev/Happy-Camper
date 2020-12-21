@@ -1,6 +1,6 @@
 <h1> Happy-Camper</h1>
-HappyCamper is a Nodejs web applicaiton that focuses on CRUD using Express. The application allows a user to create, read, update and delete campgrounds. Users must be signed in to preform any of the CRUD actions excluding read, allowing unregistered users to view campgrounds.
-Live application:
+HappyCamper is a Nodejs web applicaiton that focuses on CRUD using Express. The application allows a user to create, read, update and delete campgrounds. Users must be signed in to preform any of the CRUD actions excluding read, allowing unregistered users to view campgrounds.</br>
+<h3>Live application:</h3>
 
 [https://infinite-badlands-07112.herokuapp.com/](https://infinite-badlands-07112.herokuapp.com/)
 
