@@ -11,7 +11,7 @@ In order to run the application on your local machine, the '.env' file will be r
   <li>CLOUDINARY_KEY=</li>
   <li>CLOUDINARY_SECRET=</li>
   <li>MAPBOX_TOKEN=</li>
-  <li>DB_URL</li>
+  <li>DB_URL=</li>
   <li>SECRET=</li>
 </ul>
 <i>keys/tokens must be satisfied for full functionality</i>
